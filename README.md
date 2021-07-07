@@ -8,7 +8,7 @@ MHST2游戏文件一份(需使用XCI格式，若不是XCI格式，将其转换�
 [XCI2TitleConverter.zip]()将XCI文件完美解包出NCA的文件，解压备用  
 [XCI_NCA_NSP_v2.rar]()将XCI/NCA/NSP解包的软件，解压备用，若是没有上面的那个也可以尝试使用这个。  
 [arc.py](https://github.com/svanheulen/mhff/blob/6ef14c8ffa341ccbe44e0e6a93eb4bfe541265cf/n3ds/arc.py)，链接为原版，本文所使用的是有[@Easy World](https://github.com/easyworld)大佬修改后的版本。  
-汉化包 
+汉化包,后面有提供下载链接 
 
 
 ---
