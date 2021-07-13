@@ -7,7 +7,7 @@ MHST2游戏文件一份(需使用XCI格式，若不是XCI格式，将其转换�
 [Cirilla Toolkit.exe](https://www.nexusmods.com/monsterhunterworld/mods/110):从gmd文件提取文本的软件。  
 [XCI2TitleConverter.zip](https://github.com/javilobo8/XCI2TitleConverter)将XCI文件解包出NCA的文件，解压备用  
 [XCI_NCA_NSP_v2.rar](https://gbatemp.net/threads/a-simple-xci-nca-nsp-extracting-batch-file-just-drag-and-drop-with-titlekey-decrypt.513300/)将XCI/NCA/NSP解包的软件，解压备用，~~若是没有上面的那个也可以尝试使用这个~~简单测试发现如果解包第二步用这个解的包有问题，也可能是我操作有问题，但还是建议首先按照步骤去做，若是实在没有上面那个再考虑解决这个解包的问题。  
-[arc.py](https://github.com/svanheulen/mhff/blob/6ef14c8ffa341ccbe44e0e6a93eb4bfe541265cf/n3ds/arc.py)，链接为原版，本文所使用的是有[@Easy World](https://github.com/easyworld)大佬修改后的版本。  
+[arc.py](https://github.com/svanheulen/mhff/blob/6ef14c8ffa341ccbe44e0e6a93eb4bfe541265cf/n3ds/arc.py)，链接为原版，本文所使用的是有大佬修改后的版本。  
 汉化包,后面有提供下载链接 
 
 
